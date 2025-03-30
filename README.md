@@ -22,7 +22,7 @@ _I'm junior QA Engineer specializing on web-apps and API testing._
     - [Jira bug reports]()
 
 - Postman collection
-    -[Swagger Petstore]()
+    -[]()
   
 - SQL requests
     -[]()
