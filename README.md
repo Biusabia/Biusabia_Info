@@ -20,11 +20,12 @@ _I'm junior QA Engineer specializing on web-apps and API testing._
     - [Check-Lists]()
     - [Test cases]()
     - [Jira bug reports]()
+
 - Postman collection
     -[Swagger Petstore]()
   
 - SQL requests
     -[]()
 
-  ##Test/Devtools
+  ## Test/Devtools
   
