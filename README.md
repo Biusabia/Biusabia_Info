@@ -21,11 +21,15 @@ _I'm junior QA Engineer specializing on web-apps and API testing._
     - [Test cases]()
     - [Jira bug reports]()
 
-- Postman collection
-    -[]()
-  
-- SQL requests
-    -[]()
+- Коллекция в Postman 
+  -  []()
+- SQL запросы 
+  -  []()
+
 
   ## Test/Devtools
   
+<p align="left">
+<a href="https://www.gurock.com/testrail">
+<img src="https://github.com/Biusabia/Biusabia_Info/tree/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
+</a>
