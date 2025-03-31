@@ -31,5 +31,5 @@ _I'm junior QA Engineer specializing on web-apps and API testing._
   
 <p align="left">
 <a href="https://www.gurock.com/testrail">
-<img src="https://github.com/Biusabia/Biusabia_Info/tree/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
+<img src="https://github.com/Biusabia/Biusabia_Info/tree/main/icons/TestRail.png" alt="TestRail](https://github.com/Biusabia/Biusabia_Info/blob/main/icons/TestRail.png" width="50" height="50" />
 </a>
